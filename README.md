@@ -1,7 +1,5 @@
 # Welcome to Restaurant-Finder-with-Location App!
 
-Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
-
 
 
 ## Features
