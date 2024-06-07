@@ -1,7 +1,5 @@
 # Welcome to Restaurant-Finder-with-Location App!
 
-
-
 ## Features
 
 - 📦 HTML, CSS & JAVASCRIPT.
